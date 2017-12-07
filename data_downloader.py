@@ -10,6 +10,11 @@ drive = GoogleDrive(gauth)
 def call():
     file_ = drive.CreateFile({'id': '1kUpKVZXbzC7IF2ROrYICreAg-gku31cnEavMJ_suOWE'})
     file_.GetContentFile(file_['title'],mimetype='text/csv')
-call()
 
 #mimetype='text/csv'
+import time
+
+interval=20    #In minutes
+while True:
+    call()
+    time.sleep(1*60)

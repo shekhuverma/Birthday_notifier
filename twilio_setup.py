@@ -12,4 +12,3 @@ def send_sms(message):
     message = client.messages.create(
         to,from_=from_,
         body=message)
-send_sms("Sent from pc")
