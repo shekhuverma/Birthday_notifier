@@ -43,6 +43,7 @@ pip install -r requirements.txt
 
 #### On cloud computer 
 *Unfortunately I am not ale to get the .CSV file from google drive into the cloud so you have to manually upload it to your cloud system rest procedure is same*
+
 **Quicknote** :- If you are using pythonanywhere then just upload all the files and add Master_PA.py to pythonanywhere/tasks and schdule it. This will make it run every 24 hours and you'll get a  notifications on your phone via SMS 
 
 ## Built With
