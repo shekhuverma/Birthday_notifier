@@ -42,7 +42,7 @@ pip install -r requirements.txt
 * You can setup this entire thing on a cloud so that it can run forever
 
 #### On cloud computer 
-*Unfortunately I am not ale to get the .CSV file from google drive into the cloud so you have to manually upload it to your cloud system rest procedure is same*
+*Unfortunately I am not able to get the .CSV file from google drive into the cloud so you have to manually upload it to your cloud system rest procedure is same*
 
 **Quicknote** :- If you are using pythonanywhere then just upload all the files and add Master_PA.py to pythonanywhere/tasks and schdule it. This will make it run every 24 hours and you'll get a  notifications on your phone via SMS 
 
@@ -52,4 +52,4 @@ pip install -r requirements.txt
 * [Twilio](https://github.com/twilio/twilio-python) - Sending SMS notifications
 
 ## Contributing
-If you think your can make this a better better then please go ahead and submit PULL requests
+If you think you can make this a better then please go ahead and submit PULL requests.
