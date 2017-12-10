@@ -1,5 +1,5 @@
 # Birthday_notifier
-It scans the Bdays.CSV(which you need to create) file from your google drive and use it as base. You can this .CSV file anytime and program will automatically update itself everytime it will be run. It sends the reminder SMS on your phone  and you can run this setup on any cloud platform (I used Pythonanywhere)
+It scans the Bdays.CSV(which you need to create) file from your google drive and use it as base. You Update this .CSV file anytime and program will automatically update itself everytime it will be run. It sends a reminder SMS on your phone  and you can run this setup on any cloud platform (I used Pythonanywhere)
 
 ## Getting Started
 
