@@ -1,5 +1,0 @@
-account_sid = "AC52e185343384b04ac3833090995a23f8"
-auth_token = "9f03c342afc92763e2845a46c6769169"
-to="+918802464390"
-from_="+15158002219"
-Id ='15IAbtqimBVaeQwM0fUEyOEelK_7glnDwuJ2JsQQowmc'
