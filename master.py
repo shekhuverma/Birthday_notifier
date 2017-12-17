@@ -29,11 +29,10 @@ def bday_checker(dic):
     for a in dic:                                                       # To check bday on current date
         if int(a)==month:
             for  x in dic[a]:
-                print x
                 temp=int(x[1][0:2])
                 if temp==day:
                     lis.append(x[0])
     return lis                                                          #Returns the list of names which have bdays on current data
-
+print bday_checker(dic)
 twilio_setup.send_sms(bday_checker(dic))         #To send bday alerts on phone
 
